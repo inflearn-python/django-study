@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'debug_toolbar',
     # apps
     'first',
+    'second'
 ]
 
 MIDDLEWARE = [
